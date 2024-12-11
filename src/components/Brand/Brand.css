@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .gpt3__brand{
     display: flex;
     flex-wrap: wrap;
@@ -13,4 +14,21 @@
     display: flex;
     justify-content: center;
     align-items: center;
+=======
+.gpt3__brand{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.gpt3__brand div{
+    flex: 1;
+    max-width: 150px;
+    min-width: 120px;
+    margin: 1rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+>>>>>>> 7c24be84b53f87a59133dcebee2dddd50d752d77
 }
